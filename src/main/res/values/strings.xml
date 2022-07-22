@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FProject</string>
+    <string name="otpSent">Sent OTP</string>
+    <string name="accOtp">Verify OTP</string>
+    <string name="_63">+63</string>
+</resources>
